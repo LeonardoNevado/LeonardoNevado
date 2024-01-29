@@ -1,6 +1,8 @@
 ### Hi there 👋
+![image](https://github.com/LeonardoNevado/LeonardoNevado/assets/75989546/5105217a-36b9-476d-98b2-a02603ae9faf)
 
-<!--
+<!--![Uploading image.png…]()
+
 **LeonardoNevado/LeonardoNevado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
