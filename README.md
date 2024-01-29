@@ -34,9 +34,9 @@ i'm always in search of developing my abilitys in hopes of being the best profes
 - MySQL
 - Microsoft Azure
 
-  ### Productivity utilities
+### Productivity utilities
   
-  - Microsoft Office
+- Microsoft Office
 
   ### Languages 🌐
 
