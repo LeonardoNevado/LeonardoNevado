@@ -42,7 +42,7 @@ i'm always in search of developing my abilitys in hopes of being the best profes
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English       | C2                                                                        |
+| English       | C2 (https://www.efset.org/cert/s3VkQ2)                                    |
 | Spanish       | B2                                                                        |
 | Portuguese    | Native language                                                           |
 
